@@ -43,7 +43,7 @@ The Async Domain Flow architecture is structured around six key layers:
 4. **Storages:** Repositories for persistence.  
 5. **Communications:** Event-driven messaging systems.  
 6. **Integrations:** Connections to external services and APIs.
-7. **Plataform:** Provide shared serviços and cross-cutting infrastructure tô support all layers of the architecture. 
+7. **Plataform:** Provide shared services and cross-cutting infrastructure tô support all layers of the architecture. 
 
 ---
 
